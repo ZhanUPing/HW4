@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -Wno-unused-parameter -Wpedantic -g3 CMakeFiles/responder-cli.dir/responder-cli.cpp.o -o ../../../../bin/responder-cli  libvirtual-bus.a -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvirtual-breadboard-server.a CMakeFiles/virtual-breadboard-server.dir/src/gpio-server.cpp.o CMakeFiles/virtual-breadboard-server.dir/src/readwrite.cpp.o
+/usr/bin/ranlib libvirtual-breadboard-server.a

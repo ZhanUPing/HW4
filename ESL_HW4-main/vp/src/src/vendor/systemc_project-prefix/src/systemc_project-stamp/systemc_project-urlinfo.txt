@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/user/ee6470/test/ESL_HW4-main/vp/src/vendor/systemc'
+tag=''

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgdb-mc.a CMakeFiles/gdb-mc.dir/gdb_server.cpp.o CMakeFiles/gdb-mc.dir/gdb_runner.cpp.o CMakeFiles/gdb-mc.dir/register_format.cpp.o CMakeFiles/gdb-mc.dir/handler.cpp.o
+/usr/bin/ranlib libgdb-mc.a

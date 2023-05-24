@@ -1,0 +1,13 @@
+# Target labels
+ systemc_project
+# Source files and their labels
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/CMakeFiles/systemc_project
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/CMakeFiles/systemc_project.rule
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/CMakeFiles/systemc_project-complete.rule
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-build.rule
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-configure.rule
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-download.rule
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-install.rule
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-mkdir.rule
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-patch.rule
+/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-update.rule

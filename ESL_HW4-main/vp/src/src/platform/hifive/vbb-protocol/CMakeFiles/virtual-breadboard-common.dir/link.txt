@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvirtual-breadboard-common.a CMakeFiles/virtual-breadboard-common.dir/src/gpio-common.cpp.o
+/usr/bin/ranlib libvirtual-breadboard-common.a

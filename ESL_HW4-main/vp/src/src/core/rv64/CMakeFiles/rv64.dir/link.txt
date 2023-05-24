@@ -1,0 +1,2 @@
+/usr/bin/ar qc librv64.a CMakeFiles/rv64.dir/iss.cpp.o CMakeFiles/rv64.dir/syscall.cpp.o
+/usr/bin/ranlib librv64.a

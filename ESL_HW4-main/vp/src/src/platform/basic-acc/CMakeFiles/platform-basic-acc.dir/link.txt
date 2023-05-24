@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplatform-basic-acc.a CMakeFiles/platform-basic-acc.dir/ethernet.cpp.o CMakeFiles/platform-basic-acc.dir/display.cpp.o
+/usr/bin/ranlib libplatform-basic-acc.a

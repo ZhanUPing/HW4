@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/CMakeFiles/systemc_project"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/CMakeFiles/systemc_project.rule"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/CMakeFiles/systemc_project-complete.rule"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-build.rule"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-configure.rule"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-download.rule"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-install.rule"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-patch.rule"
+		},
+		{
+			"file" : "/home/user/ee6470/test/ESL_HW4-main/vp/src/src/vendor/systemc_project-prefix/src/systemc_project-stamp/systemc_project-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"systemc_project"
+		],
+		"name" : "systemc_project"
+	}
+}

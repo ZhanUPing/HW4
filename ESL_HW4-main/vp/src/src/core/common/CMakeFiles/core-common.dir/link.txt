@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore-common.a CMakeFiles/core-common.dir/timer.cpp.o CMakeFiles/core-common.dir/real_clint.cpp.o CMakeFiles/core-common.dir/instr.cpp.o CMakeFiles/core-common.dir/debug_memory.cpp.o CMakeFiles/core-common.dir/rawmode.cpp.o
+/usr/bin/ranlib libcore-common.a

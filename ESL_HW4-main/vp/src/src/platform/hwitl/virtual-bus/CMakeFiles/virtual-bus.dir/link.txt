@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvirtual-bus.a CMakeFiles/virtual-bus.dir/protocol.cpp.o CMakeFiles/virtual-bus.dir/network_io.cpp.o CMakeFiles/virtual-bus.dir/initiator.cpp.o CMakeFiles/virtual-bus.dir/responder.cpp.o
+/usr/bin/ranlib libvirtual-bus.a

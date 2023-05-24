@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgdb.a CMakeFiles/gdb.dir/mpc/mpc.c.o CMakeFiles/gdb.dir/parser1.c.o CMakeFiles/gdb.dir/parser2.c.o CMakeFiles/gdb.dir/response.c.o CMakeFiles/gdb.dir/util.c.o
+/usr/bin/ranlib libgdb.a

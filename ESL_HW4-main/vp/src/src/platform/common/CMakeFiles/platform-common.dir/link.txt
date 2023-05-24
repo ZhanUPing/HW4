@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplatform-common.a CMakeFiles/platform-common.dir/fe310_plic.cpp.o CMakeFiles/platform-common.dir/fu540_plic.cpp.o CMakeFiles/platform-common.dir/uart_if.cpp.o CMakeFiles/platform-common.dir/fd_abstract_uart.cpp.o CMakeFiles/platform-common.dir/slip.cpp.o CMakeFiles/platform-common.dir/uart.cpp.o CMakeFiles/platform-common.dir/options.cpp.o
+/usr/bin/ranlib libplatform-common.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -Wno-unused-parameter -Wpedantic -g3 CMakeFiles/vbb-cli-client.dir/test/cli-client.cpp.o -o ../../../../bin/vbb-cli-client  libvirtual-breadboard-client.a libvirtual-breadboard-common.a -lpthread 

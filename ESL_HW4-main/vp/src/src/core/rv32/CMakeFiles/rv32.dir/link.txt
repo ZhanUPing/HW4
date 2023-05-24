@@ -1,0 +1,2 @@
+/usr/bin/ar qc librv32.a CMakeFiles/rv32.dir/iss.cpp.o CMakeFiles/rv32.dir/syscall.cpp.o
+/usr/bin/ranlib librv32.a

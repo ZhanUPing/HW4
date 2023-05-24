@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -Wno-unused-parameter -Wpedantic -g3 CMakeFiles/initiator-cli.dir/initiator-cli.cpp.o -o ../../../../bin/initiator-cli  libvirtual-bus.a -lpthread 
